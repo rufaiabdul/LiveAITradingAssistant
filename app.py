@@ -9,4 +9,4 @@ st.write("Welcome to your AI-powered trading dashboard!")
 symbol = st.text_input("Enter a trading symbol", "BTCUSDT")
 
 if st.button("Analyze"):
-    st.success(f"Analysis for {symbol} will appear here.") of
+    st.success(f"Analysis for {symbol} will appear here.")
